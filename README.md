@@ -13,7 +13,6 @@
   
   <!-- BADGES LUCU -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&color=ffb6c1&style=flat-square&label=🌸+Visitors" alt="visitors" />
     <img src="https://img.shields.io/badge/🐰%20Pronouns-she/her/they-ffccd5" alt="pronouns" />
     <img src="https://img.shields.io/badge/🎀%20Status-Coding%20with%20love-ff99aa" alt="status" />
   </p>
@@ -21,18 +20,3 @@
 </div>
 
 ---
-
-<!-- ABOUT ME -->
-### 🌸 About Me
-```javascript
-const aboutMe = {
-  pronouns: "she/her",
-  code: ["JavaScript", "HTML/CSS", "Python"],
-  hobbies: [
-    "🎮 Gaming",
-    "🎵 Listening to music",
-    "📚 Reading manga",
-    "🍰 Baking sweets"
-  ],
-  funFact: "I can fix bugs but not my sleep schedule 🌙"
-};
