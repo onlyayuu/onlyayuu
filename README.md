@@ -82,14 +82,20 @@
   <h1>🌸 Featured Projects</h1>
 </div>
 
-<!-- Ganti bagian ini dengan project kamu -->
 <div align="center">
-  <a href="https://github.com/ayuuu-dev/laporin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuuu-dev&repo=laporin&theme=rose_pine&hide_border=true" />
+  <a href="https://github.com/onlyayuu/laporin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyayuu&repo=laporin&theme=rose_pine&hide_border=true" />
   </a>
-  <a href="https://github.com/ayuuu-dev/mini-game-side-scroll">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuuu-dev&repo=mini-game-side-scroll&theme=rose_pine&hide_border=true" />
+  <a href="https://github.com/onlyayuu/mini-game-side-scroll">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyayuu&repo=mini-game-side-scroll&theme=rose_pine&hide_border=true" />
   </a>
+</div>
+
+<div align="center">
+  <sub>
+    🍰 <a href="https://github.com/onlyayuu/laporin"><b>LAPORIN</b></a> — Website pengaduan sarpras sekolah (Laravel + PHP + MySQL) <br>
+    🍬 <a href="https://github.com/onlyayuu/mini-game-side-scroll"><b>Candy Witch: Sweet Escape</b></a> — Game platformer 2D pakai C# murni 🧙‍♀️
+  </sub>
 </div>
 
 ---
