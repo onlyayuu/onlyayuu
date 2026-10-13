@@ -36,7 +36,7 @@
 - 🎓 **Currently learning:** Python 🐍 → next stop Swift 🍎
 - 💼 **Working on:** Projek Mitra
 - 🌱 **Interest:** Coding UI & Interface Design 🎨
-- ☕ **Fun fact:** Kopi addict — no coffee, no code ☕💕
+- ☕ **Fun fact:** Kopi addict — SAYANG BGT SAMA YG NAMANYA KOPI, AMERICANO ONE SHOOT PLS.
 
 ---
 
@@ -72,29 +72,10 @@
   </p>
 </div>
 
-> 📝 **Catatan:** Aku tambahin **Swift** di baris mobile karena kamu bilang "otw Swift" — jadi keliatan progress-nya 😆
+> 📝 **Catatan:** swift masih otw belajar hehe 😆
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <h1>📊 GitHub Stats</h1>
-
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayuuu-dev&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuuu-dev&layout=compact&theme=rose_pine&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuu-dev&theme=rose-pine&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayuuu-dev&theme=rose_pine&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-  </p>
-</div>
-
----
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
@@ -103,11 +84,11 @@
 
 <!-- Ganti bagian ini dengan project kamu -->
 <div align="center">
-  <a href="https://github.com/ayuuu-dev/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuuu-dev&repo=REPO_1&theme=rose_pine&hide_border=true" />
+  <a href="https://github.com/ayuuu-dev/laporin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuuu-dev&repo=laporin&theme=rose_pine&hide_border=true" />
   </a>
-  <a href="https://github.com/ayuuu-dev/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuuu-dev&repo=REPO_2&theme=rose_pine&hide_border=true" />
+  <a href="https://github.com/ayuuu-dev/mini-game-side-scroll">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuuu-dev&repo=mini-game-side-scroll&theme=rose_pine&hide_border=true" />
   </a>
 </div>
 
